@@ -1,0 +1,6 @@
+.project
+.settings/
+.classpath
+src/hibernate.cfg.xml
+bin/
+lib/
